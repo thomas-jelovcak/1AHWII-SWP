@@ -1,0 +1,14 @@
+h1 { /* Alle h1-Eleente stylen */
+    border-bottom: 1px dashed black;
+    /* Kleinbuchstaben als kleine Großbuchstaben darstellen */
+    font-variant: small-caps;
+    /* Schriftfarbe ändern */
+    color: steelblue;
+  
+}
+
+
+.date {
+    color: red;
+    font-weight: bold;
+}
